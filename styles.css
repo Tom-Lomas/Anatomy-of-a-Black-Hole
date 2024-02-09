@@ -1,0 +1,253 @@
+a:link {
+
+	color: #ff601e;
+	text-decoration: underline;
+
+}
+
+a:visited {
+
+	color: #ff601e;
+
+}
+
+a:hover {
+
+	text-decoration: underline overline;
+
+}
+
+.home {
+
+	background-image: url("../Pictures/Untitled design.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: white;
+	font-size: 30;
+	text-align: right;
+
+}
+
+.disk {
+
+	background-image: url("../Pictures/disk.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: white;
+	font-size: 25;
+	text-align: center;
+
+}
+
+.corona {
+
+	background-image: url("../Pictures/Corona.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: white;
+	font-size: 25;
+	text-align: center;
+
+}
+
+.eh {
+
+	background-image: url("../Pictures/eh.gif");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: white;
+	font-size: 25;
+	text-align: center;
+
+}
+
+.singularity {
+
+	background-image: url("../Pictures/actual.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	color: white;
+	font-size: 25;
+	text-align: center;
+
+}
+
+.fun {
+
+	font-size: 30;
+	color: white;
+	line-height: 1.5em;
+	text-align: center;
+	list-style-position: inside;
+
+}
+
+img.warp {
+
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1535px;
+	height: 1000px;
+
+}
+
+.adtext {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-radius: 25px 25px 25px 25px;
+	position: absolute;
+	left: 450px;
+	top: 504px;
+
+}
+
+.adbox {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-style: outset;
+	border-color: yellow;
+	border-radius: 25px 25px 25px 25px;
+	background-color: black;
+	padding-top: 2px;
+	position: absolute;
+	left: 431px;
+	top: 501px;
+	opacity: 0.75;
+
+}
+
+.coronatext {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-radius: 25px 25px 25px 25px;
+	position: absolute;
+	left: 1080px;
+	top: 100px;
+
+}
+
+.coronabox {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-style: outset;
+	border-color: yellow;
+	border-radius: 25px 25px 25px 25px;
+	background-color: black;
+	padding-top: 2px;
+	position: absolute;
+	left: 1061px;
+	top: 97px;
+	opacity: 0.75;
+
+}
+
+.ehtext {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-radius: 25px 25px 25px 25px;
+	position: absolute;
+	left: 1090px;
+	top: 350px;
+
+}
+
+.ehbox {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-style: outset;
+	border-color: yellow;
+	border-radius: 25px 25px 25px 25px;
+	background-color: black;
+	padding-top: 2px;
+	position: absolute;
+	left: 1071px;
+	top: 347px;
+	opacity: 0.75;
+
+}
+
+.singularitytext {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-radius: 25px 25px 25px 25px;
+	position: absolute;
+	left: 1100px;
+	top: 440px;
+
+}
+
+.singularitybox {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-style: outset;
+	border-color: yellow;
+	border-radius: 25px 25px 25px 25px;
+	background-color: black;
+	padding-top: 2px;
+	position: absolute;
+	left: 1081px;
+	top: 437px;
+	opacity: 0.75;
+
+}
+
+.fftext {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-radius: 25px 25px 25px 25px;
+	position: absolute;
+	left: 671px;
+	top: 619px;
+
+}
+
+.ffbox {
+
+	font-family: Georgia, Times, serif;
+	font-size: 20;
+	color: black;
+	text-align: center;
+	border-style: outset;
+	border-color: yellow;
+	border-radius: 25px 25px 25px 25px;
+	background-color: black;
+	padding-top: 2px;
+	position: absolute;
+	left: 652px;
+	top: 616px;
+	opacity: 0.75;
+
+}
