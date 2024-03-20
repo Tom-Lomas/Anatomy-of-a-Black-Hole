@@ -18,5 +18,5 @@ Image Citations:
   
   journey.gif is a gif that was created and posted to giphy by Balazsvarga. His work can be found at https://giphy.com/balazsvarga
 
-  If there are any issues with copyright or if someone wants to contact me you can email me at tom.lomas90@gmail.com
+  If there are any issues with copyright or if someone wants to contact me you can email me at tomlomas@duck.com
 
